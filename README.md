@@ -1,2 +1,2 @@
-# FriendsSimulator
-Config settings and datapacks for FriendsSimulator modpack
+# Friends Fantasy and Engineering
+Config settings and datapacks for Friends Fantasy and Engineering modpack
